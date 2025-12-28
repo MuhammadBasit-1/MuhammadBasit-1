@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Basit
 
-<!--
-**MuhammadBasit-1/MuhammadBasit-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛒 Shopify Customization  
+💻 HTML & CSS (Beginner)  
+📖 Quran Teacher  
+🧑‍💼 Receptionist / Front Desk
 
-Here are some ideas to get you started:
+I am a motivated beginner working in e-commerce customization, with experience in Quran-related education and front-desk responsibilities. I am eager to learn, improve, and grow professionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Experience
+
+### 🛒 Shopify Customization
+- Store setup & basic customization  
+- Product upload & collections  
+- Filters & navigation setup  
+- Banner & layout design (Canva)
+
+### 📖 Holy Quran
+- Quran reading & basic teaching  
+- Tajweed (basic level)  
+
+### 🧑‍💼 Receptionist
+- Front desk handling  
+- Customer dealing & communication  
+- Call handling & record management  
+- Basic computer & office work
+
+---
+
+## 🧠 Currently Learning
+- HTML & CSS,Java script
+- eCommerce Expert &  
+- Professional communication skills
+
+---
+
+## 📌 Practice Work
+- Shopify demo stores
+- Product & collection setup
+- Simple layout customization
+
+---
+
+## 📫 Contact
+- Email: Muhammadbasit1078@gmail.com  
+- GitHub:https://github.com/MuhammadBasit-1
+- Email: your@email.com  
+- GitHub: https://github.com/yourusername
