@@ -31,16 +31,14 @@ I am a motivated beginner working in e-commerce customization, with experience i
 
 ## 🧠 Currently Learning
 - HTML & CSS,Java script
-- eCommerce Expert &  
+- eCommerce Expert  
 - Professional communication skills
 
 ---
 
 ## 📌 Practice Work
-- Shopify demo stores
-- Product & collection setup
-- Simple layout customization
-
+-- HTML & CSS,Java script
+-- E-Commerce Expert   
 ---
 
 ## 📫 Contact
