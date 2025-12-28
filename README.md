@@ -46,5 +46,3 @@ I am a motivated beginner working in e-commerce customization, with experience i
 ## 📫 Contact
 - Email: Muhammadbasit1078@gmail.com  
 - GitHub:https://github.com/MuhammadBasit-1
-- Email: your@email.com  
-- GitHub: https://github.com/yourusername
